@@ -1,0 +1,2 @@
+To open a new Quokka file use Ctrl + K, J for JavaScript.
+To start/restart Quokka on an existing file, use Ctrl + K, Q.
